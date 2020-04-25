@@ -1,0 +1,28 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Green Curry",
+      "category": "curry",
+      "ethnicity": "thai"
+    },
+    {
+      "id": 2,
+      "name": "Gulab Jamun",
+      "category": "dessert",
+      "ethnicity": "indian"
+    },
+    {
+      "id": 3,
+      "name": "Mapo Tofu",
+      "category": "tofu",
+      "ethnicity": "chinese"
+    },
+    {
+      "id": 4,
+      "name": "Pain au Chocolat",
+      "category": "pastry",
+      "ethnicity": "french"
+    }
+  ]
+}
