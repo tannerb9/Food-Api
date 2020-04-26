@@ -23,6 +23,24 @@
       "name": "Pain au Chocolat",
       "category": "pastry",
       "ethnicity": "french"
+    },
+    {
+      "id": 6,
+      "name": "Laing",
+      "category": "vegetable",
+      "ethnicity": "filipino"
+    },
+    {
+      "id": 7,
+      "name": "Laksa",
+      "category": "noodles",
+      "ethnicity": "malaysian"
+    },
+    {
+      "id": 5,
+      "name": "Carnitas",
+      "category": "pork",
+      "ethnicity": "mexican"
     }
   ]
 }
