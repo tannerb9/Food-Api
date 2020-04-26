@@ -4,43 +4,50 @@
       "id": 1,
       "name": "Green Curry",
       "category": "curry",
-      "ethnicity": "thai"
+      "origin": "thailand",
+      "barcode": "00809696"
     },
     {
       "id": 2,
       "name": "Gulab Jamun",
-      "category": "dessert",
-      "ethnicity": "indian"
+      "category": "snack",
+      "origin": "india",
+      "barcode": "0011433117265"
     },
     {
       "id": 3,
       "name": "Mapo Tofu",
       "category": "tofu",
-      "ethnicity": "chinese"
+      "origin": "china",
+      "barcode": "0851378008170"
     },
     {
       "id": 4,
       "name": "Pain au Chocolat",
       "category": "pastry",
-      "ethnicity": "french"
+      "origin": "france",
+      "barcode": "3564700019276"
     },
     {
       "id": 6,
       "name": "Laing",
       "category": "vegetable",
-      "ethnicity": "filipino"
+      "origin": "philippines",
+      "barcode": "4809011017436"
     },
     {
       "id": 7,
       "name": "Laksa",
       "category": "noodles",
-      "ethnicity": "malaysian"
+      "origin": "malaysia",
+      "barcode": "0815055010009"
     },
     {
       "id": 5,
       "name": "Carnitas",
       "category": "pork",
-      "ethnicity": "mexican"
+      "origin": "mexico",
+      "barcode": "0027182125345"
     }
   ]
 }
