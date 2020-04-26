@@ -1,0 +1,26 @@
+.foodList {
+  display: flex;
+  flex-direction: row;
+}
+
+.children {
+  text-transform: uppercase;
+  line-height: 1.25em;
+  text-align: center;
+  align-content: center;
+  border: 1px solid black;
+  margin: 10px;
+  padding: 5px;
+}
+
+.children h1 {
+  font-size: 1.25em;
+}
+
+.children p {
+  line-height: 0.25em;
+}
+
+.children p:last-of-type {
+  font-style: italic;
+}
