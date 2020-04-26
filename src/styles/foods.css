@@ -1,11 +1,14 @@
 .foodList {
   display: flex;
-  flex-direction: row;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
 }
 
 .children {
+  background-color: rgb(238, 237, 237);
   text-transform: uppercase;
   line-height: 1.25em;
+  max-width: 300px;
   text-align: center;
   align-content: center;
   border: 1px solid black;
@@ -18,9 +21,6 @@
 }
 
 .children p {
-  line-height: 0.25em;
-}
-
-.children p:last-of-type {
-  font-style: italic;
+  font-size: 0.75em;
+  line-height: 1em;
 }
